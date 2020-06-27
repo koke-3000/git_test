@@ -1,0 +1,1 @@
+This is koke-3000's first git project!
